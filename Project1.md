@@ -1,5 +1,6 @@
 # Sales-and-profit-dashboard-
 [click on the link to open the tableau dashboard](https://public.tableau.com/app/profile/puneeth1161/viz/Superstore_16636492572830/Dashboard2) 
+
 -Used open-source dataset from Kaggle.com
 
 -Created calculated fields using mathematical formulas to calculate profit ratio
