@@ -8,6 +8,6 @@
 
 -Used dual axis charts to compare previous year sales and year to date sales
 
-- Created maps to analyze sales performance for every state in the United States
+-Created maps to analyze sales performance for every state in the United States
 
 -Used IF THEN statements to analyze year to date sales and profit.
